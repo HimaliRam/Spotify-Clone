@@ -15,9 +15,3 @@ A Spotify clone built with HTML, CSS, and JavaScript. This project replicates th
 - CSS
 - JavaScript
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/HimaliRam/Spotify-Clone.git
